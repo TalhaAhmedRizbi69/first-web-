@@ -1,0 +1,69 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: floralwhite;
+}
+section{
+    margin-bottom: 100px;
+    height: 500px;
+    text-align: center;
+}
+.name-highlighter{
+    color: rgb(236, 74, 10);
+}
+.first-section{
+    height: 400px;
+    background-image: url("https://blog-imgs-129.fc2.com/w/a/t/watchmonoblog/PC_Desk_UltlaWideMonitor47_03.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.second-section{
+    height: 500px;
+    background-image: url("https://blog-imgs-129.fc2.com/w/a/t/watchmonoblog/PC_Desk_UltlaWideMonitor47_04.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-left: 50px;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 20px;
+    padding: 25px;
+}
+img{
+    width: 100%;
+}
+
+}
+p{
+    text-align: justify;
+}
+.single-exp{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 250px;
+}
+.single-exp h3{
+    color: turquoise;
+}
+.exp-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#designer{
+    border-right: 7px solid;
+    border-image: linear-gradient(rgb(4, 216, 99), rgb(71, 255, 163));
+    border-image-slice: 1;
+}
+#developer{
+    border-right: 7px solid;
+    border-image: linear-gradient(rgb(162, 0, 255), rgb(255, 0, 0));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
